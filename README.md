@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Kubernetescluster
-  platforms: java
+- services: Kubernetescluster
+- platforms: java
 ---
 
 # Getting Started with Kubernetescluster - Managed Kubernetes Cluster With Advanced Networking - in Java #
